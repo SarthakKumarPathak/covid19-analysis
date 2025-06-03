@@ -40,8 +40,10 @@ This project analyzes the global impact of COVID-19 by merging multiple datasets
 1. Clone the repository:
    ```bash
    git clone https://github.com/SarthakKumarPathak/covid19-analysis.git
-2. Install dependencies: pip install -r requirements.txt
-3. Launch the Jupyter Notebook and explore the analysis: jupyter notebook covid19_analysis.ipynb
+2. Install dependencies:
+   pip install -r requirements.txt
+4. Launch the Jupyter Notebook and explore the analysis:
+   jupyter notebook covid19_analysis.ipynb
 
    ##License
    This project is licensed under the MIT License - see the LICENSE file for details.

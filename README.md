@@ -47,7 +47,7 @@ This project analyzes the global impact of COVID-19 by merging multiple datasets
 
 
 
-##License 📄
+## License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Made with ❤️ by Sarthak Kumar Pathak
